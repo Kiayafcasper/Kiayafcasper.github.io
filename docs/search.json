@@ -2,19 +2,18 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "About me",
+      "description": "Since I was a young, I’ve always been the person to spend extra time on the trailhead staring at the structure of a trees leaf, or watching a bee pollinate a flower, as my family continued to walk, leaving me in the distance. This passion for nature is what has guided me down the path of biological studies. As I studied at Utah Valley University, I began to narrow my passion to understanding ecological systems and how evolutionary processes have led to the formation of such ecosystems. I am now graduating with a Bachelor’s of Biology, and I hope to now move on to getting a PhD degree, so I may continue to study the various processes that make our world so beautiful and worthy of spending a few extra minutes on the trailhead.",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2025-04-27T20:52:46-06:00"
+      "last_modified": "2025-04-28T10:34:07-06:00"
     },
     {
       "path": "index.html",
-      "title": "My Website",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "title": "Kiaya Casper",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2025-04-27T20:52:48-06:00"
+      "contents": "\n\n          \n          \n          Home\n          \n          \n          About me\n          Previous works\n          ☰\n          \n          \n      \n        \n          \n            Kiaya Casper\n          \n          \n            \n              \n            \n            \n              \n            \n          \n\n          \n            \n              \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                      gitHub\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    LinkedIn\n                  \n                \n                                \n                  \n                    gitHub\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2025-04-28T10:34:11-06:00"
     }
   ],
   "collections": []

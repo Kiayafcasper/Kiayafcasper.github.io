@@ -1,12 +1,13 @@
 name: "Kiayafcasper.github.io"
-title: "My Website"
+title: "Home"
+theme: my_theme.css
 description: |
   My Website
 output_dir: "docs"
 navbar:
   right:
-    - text: "Home"
-      href: index.html
-    - text: "About"
+    - text: "About me"
       href: about.html
+    - text: "Previous works"
+      href: Final_project.html
 output: distill::distill_article

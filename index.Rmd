@@ -1,7 +1,13 @@
 ---
-title: "My Website"
-description: |
-  Welcome to the website. I hope you enjoy it!
+title: "Kiaya Casper"
+image: "IMG_0060.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/kiaya-casper-ba9244203/"
+  - label: gitHub
+    url: "https://github.com/Kiayafcasper"
+output:
+  postcards::jolla
 site: distill::distill_website
 ---
 
